@@ -25,7 +25,10 @@ def monopoly_with_third_tier
 	        :four_piece_owned => 200
 	      },
 	      :names => {
-	   
+	         :reading_railroad => {morgage value: "$100"}
+	        :pennsylvania_railroad => {morgage value: "$200"}
+	        :b_and_o_railroad => {morgage value: "$400"}
+	        :shortline_railroad => {morgage value: "$800"}
 	     }
 	  }
 	}
